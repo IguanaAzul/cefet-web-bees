@@ -24,6 +24,10 @@ p {
     float: left;
 }
 
+#lutam-ate-morrer {
+    clear: both;
+}
+
 .casta-de-abelha {
     border-radius: 50%;
     border-width: 5px;
